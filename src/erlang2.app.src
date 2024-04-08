@@ -1,7 +1,7 @@
 %% -*- mode: erlang -*-
 {application, erlang2, [
   {description, "zjb test"},
-  {vsn, "0.0.4"},
+  {vsn, "0.0.5"},
   {registered, []},
   {applications, [kernel, stdlib, typerefl]},
   {env, []},
