@@ -1,0 +1,4 @@
+[{<<"typerefl">>,
+  {git,"https://github.com/ieQu1/typerefl.git",
+       {ref,"310b82ff02f96207c519b9556491433b6ea02d01"}},
+  0}].
